@@ -1,0 +1,47 @@
+/* Базовые стили */
+
+body {
+    font-family: sans-serif;
+    margin: 0;
+    padding: 0;
+  }
+  
+  h1 {
+    font-size: 2rem;
+    margin-bottom: 1rem;
+  }
+  
+  p {
+    font-size: 1rem;
+    margin-bottom: 1rem;
+  }
+  
+  a {
+    text-decoration: none;
+    color: #000;
+  }
+  
+  /* Стили для шапки сайта */
+  
+  header {
+    background-color: #f1f1f1;
+    padding: 1rem;
+  }
+  
+  header h1 {
+    margin-top: 0;
+  }
+  
+  /* Стили для основного контента */
+  
+  main {
+    margin-top: 1rem;
+  }
+  
+  /* Стили для футера сайта */
+  
+  footer {
+    background-color: #f1f1f1;
+    padding: 1rem;
+    text-align: center;
+  }
